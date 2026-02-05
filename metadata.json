@@ -1,0 +1,5 @@
+{
+  "name": "Samsic docs Manager",
+  "description": "Sistema de gestión de documentación industrial, instrucciones de trabajo, fichas técnicas y de seguridad con control de acceso por roles.",
+  "requestFramePermissions": []
+}
